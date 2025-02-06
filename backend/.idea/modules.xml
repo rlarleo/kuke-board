@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/data-serializer/kuke-board.common.data-serializer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/data-serializer/kuke-board.common.data-serializer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/event/kuke-board.common.event.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/event/kuke-board.common.event.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/outbox-message-relay/kuke-board.common.outbox-message-relay.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/outbox-message-relay/kuke-board.common.outbox-message-relay.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/snowflake/kuke-board.common.snowflake.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/snowflake/kuke-board.common.snowflake.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/article/kuke-board.service.article.main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/article/kuke-board.service.article.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/article/kuke-board.service.article.test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/article/kuke-board.service.article.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/comment/kuke-board.service.comment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/comment/kuke-board.service.comment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/comment/kuke-board.service.comment.test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/comment/kuke-board.service.comment.test.iml" />
+    </modules>
+  </component>
+</project>
